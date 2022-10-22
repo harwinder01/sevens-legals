@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    background-color: #353535;
+    box-sizing: border-box;
+    color: #fff;
+    float: left;
+    font-family: CalibriRegular;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px;
+    min-height: 84px;
+    padding: 0px;
+    transition: all 0.5s ease 0s;
+    width: 100%;
+}
